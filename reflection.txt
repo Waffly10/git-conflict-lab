@@ -1,0 +1,1 @@
+Merge conflict is git tries to combine multiple changes at the same time and files in different ways. It is important to pull the latest changes from the remote main branch before trying to merge my own feature branch so that when a teammate also makes changes, it wouldn't be a surprise, making sure that the history of the project is most consistent. Resulting in less confusion.
